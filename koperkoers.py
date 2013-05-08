@@ -1,3 +1,17 @@
+#!/usr/bin/env python
+
+# koperkoers.py
+#
+# Version: 1.0
+#
+# Author: Vincent Andries
+#         vincent.andries@redlink.be
+#
+# Description: 
+#              Check the copper price online and notify users via email if it has changed
+#
+
+
 #Imports
 import urllib2
 import smtplib
